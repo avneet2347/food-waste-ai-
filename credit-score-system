@@ -1,7 +1,0 @@
-echo "# credit-score-system-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/man11de04ep-glitch/credit-score-system.git
-git push -u origin main
